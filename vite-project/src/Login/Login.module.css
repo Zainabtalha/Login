@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+.box{
+    border: 2px solid black;
+    box-shadow: 10px black;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: rgb(213, 213, 213);
+    border-radius: 10px;
+   
+
+}
+
+.inputfeild{
+    margin-top: 30px;
+    border: none;
+    border-radius: 5px;
+
+}
